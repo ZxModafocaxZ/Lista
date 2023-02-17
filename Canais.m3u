@@ -7,10 +7,10 @@ http://95.141.35.104:8081/looktvs/pfc1/playlist.m3u8?PEDROJUNIORTUTORIAIS
 http://listaiptv.brcs.ml:8080/HD_PFC_CLUBES/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 2
-http://listaiptv.brcs.ml:8080/SD_PFC_2/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+http://dns-onplaytv.fun:80/865283/969466/24441
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 3
-http://listaiptv.brcs.ml:8080/SD_PFC_3/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+http://dns-onplaytv.fun:80/865283/969466/24445
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 4
 http://listaiptv.brcs.ml:8080/SD_PFC_4/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
